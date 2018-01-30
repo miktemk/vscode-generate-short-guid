@@ -28,6 +28,11 @@
       "when": "editorTextFocus"
     }
   ],
+  "icon": "res/logo.jpg",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/miktemk/vscode-generate-short-guid"
+	},
   "scripts": {
     "vscode:prepublish": "tsc -p ./",
     "compile": "tsc -watch -p ./",
