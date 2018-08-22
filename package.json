@@ -2,7 +2,7 @@
   "name": "generate-short-guid",
   "displayName": "Generate short GUID",
   "description": "Generates the first part of a GUID (first 8 chars)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "miktemk",
   "engines": {
     "vscode": "^1.12.0"
