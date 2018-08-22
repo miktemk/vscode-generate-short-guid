@@ -18,16 +18,16 @@
     "commands": [{
       "command": "miktemk.generateShortGuid",
       "title": "Generate Short Guid"
-    }]
+    }],
+    "keybindings": [
+      {
+        "command": "miktemk.generateShortGuid",
+        "key": "ctrl+shift+u",
+        "mac": "cmd+shift+u",
+        "when": "editorTextFocus"
+      }
+    ]
   },
-  "keybindings": [
-    {
-      "command": "miktemk.generateShortGuid",
-      "key": "ctrl+shift+u",
-      "mac": "cmd+shift+u",
-      "when": "editorTextFocus"
-    }
-  ],
   "icon": "res/logo.jpg",
   "repository": {
 		"type": "git",
