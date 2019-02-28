@@ -1,6 +1,6 @@
 # Generate short GUID
 
-Generates the first part of a GUID (first 8 chars). Use this 
+Generates the first part of a GUID (first 8 chars).
 
 ## Key Bindings
 
